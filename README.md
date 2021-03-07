@@ -1,4 +1,4 @@
 
-## Faris Ardhafa - Operating Systems 2021-1
+## Faris Ardhafa - Operating Systems 211
 
-[Top 10 Links - Week 01](./w01)
+[Top 10 Links - Week 01](./W01)
