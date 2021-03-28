@@ -29,5 +29,5 @@ ZCZC W03 30 L08 Trying something
 ZCZC W04 120 L10 W04 Assignments
 ZCZC W04 100 L07 Demo W04
 ZCZC W04 150 L23 Discord: assignment discussion.
-ZCZC W04 90 L02 ZOOM sync class
+ZCZC W04 90 L02 ZOOM sync
 ZCZC W04 60 L08 Trying something: .bash_aliases, script

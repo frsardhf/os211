@@ -13,7 +13,7 @@
 # REV01 Tue 13 Oct 10:37:14 WIB 2020
 # START Mon 28 Sep 21:05:04 WIB 2020
 
-# ATTN
+# ATTN:
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
